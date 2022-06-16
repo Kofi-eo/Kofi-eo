@@ -33,7 +33,7 @@
 
 [![EO's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kofi-eo&&theme=xcode)](https://github.com/kofi-eo)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kofi-eo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kofieo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kofi-eo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kofieo" /></p></br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kofi-eo&show_icons=true&locale=en&theme=tokyonight" alt="kofieo" /></p>
 
