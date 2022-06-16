@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Freelance Project**
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Anything Javascript**
 
