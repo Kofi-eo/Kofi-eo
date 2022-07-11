@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Emmanuel Ofori (EO) </h1>
 <h3 align="center">A results-driven Full-Stack Developer from Ghana</h3>
-</br></br>
+</br>https://www.codewars.com/users/Kofi.eo/badges/large</br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
