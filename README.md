@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Anything Javascript**
 
-- 📫 How to reach me **slxmtube@gmail.com**
+- 📫 How to reach me **hello@kofieo.com**
 
 
 
