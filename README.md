@@ -32,7 +32,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nextjs,nodejs,mysql,py,git,figma)](https://skills.thijs.gg)
 
 
-[![EO's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kofi-eo&&theme=xcode)](https://github.com/kofi-eo)
+
 
 
 
