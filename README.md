@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Emmanuel Ofori (EO) </h1>
-<h3 align="center">A results-driven Full-Stack Developer from Ghana</h3>
+<h3 align="center">A results-driven Developer from Ghana</h3>
 </br> 
 </br>
 
