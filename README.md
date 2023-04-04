@@ -37,6 +37,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kofi-eo&&theme=tokyonight" alt="kofieo" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kofi-eo&layout=compact"/></p>
 
 
