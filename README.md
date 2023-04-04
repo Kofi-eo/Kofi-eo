@@ -38,5 +38,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kofi-eo&&theme=tokyonight" alt="kofieo" /></p>
 
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kofi-eo)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kofi-eo)](https://github.com/anuraghazra/github-readme-stats)
 
