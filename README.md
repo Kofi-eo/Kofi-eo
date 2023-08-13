@@ -36,7 +36,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kofi-eo&&theme=tokyonight" alt="kofieo" /></p>
-<p><img src="https://read-me-stats-rust.vercel.app/api/top-langs?username=Kofi-eo&layout=compact&theme=tokyonight"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kofi-eo&&theme=tokyonight" alt="kofieo" /></p> <br/>
+[![Top Langs](https://read-me-stats-rust.vercel.app/api/top-langs/?username=kofi-eo)](https://github.com/Kofi-eo/read-me-stats)
 
 
