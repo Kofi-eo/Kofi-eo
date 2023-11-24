@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kofi_eo" target="blank"><img src="https://img.shields.io/twitter/follow/kofi_eo?logo=twitter&style=for-the-badge" alt="kofi_eo" /></a> </p>
 
-- 🔭 I’m currently working on ** A React Native App**
+- 🔭 I’m currently working on **A React Native App**
 
 - 🌱 I’m currently learning **React Native**
 
