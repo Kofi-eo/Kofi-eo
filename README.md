@@ -31,5 +31,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,nextjs,nodejs,graphql,mongodb,supabase,firebase,express,tailwind,git,figma,jest,vscode)](https://skills.thijs.gg)
 
+p><img align="left" src="https://kofieo-stats.vercel.app/api/top-langs?username=kofi-eo&show_icons=true&locale=en&layout=compact" alt="kofi-eo" /></p>
+
 
 
