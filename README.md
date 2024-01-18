@@ -29,8 +29,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,nextjs,nodejs,graphql,mongodb,supabase,firebase,express,tailwind,git,figma,jest,vscode)](https://skills.thijs.gg)
-<br/>
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,nextjs,nodejs,graphql,mongodb,supabase,firebase,express,tailwind,git,figma,jest,vscode)](https://skills.thijs.gg)</p></p>
+<h3></h3>
+
 [![Top Langs](https://kofieo-readme-stats.vercel.app/api/top-langs/?username=kofi-eo)](https://github.com/Kofi-eo/read-me-stats)
 
 
