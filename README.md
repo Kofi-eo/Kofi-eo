@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-<p align="left"> <a href="https://twitter.com/kofi_eo" target="blank"><img src="https://img.shields.io/twitter/follow/kofi_eo?logo=twitter&style=for-the-badge" alt="kofi_eo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kofieo_" target="blank"><img src="https://img.shields.io/twitter/follow/kofieo_?logo=twitter&style=for-the-badge" alt="kofieo_" /></a> </p>
 
 - 🔭 I’m currently working on **A React Native App**
 
