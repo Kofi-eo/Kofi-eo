@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Anything Javascript/Typescript**
 
-- 📫 How to reach me **kofieocodes@gmail.com**
+- 📫 How to reach me **hello@kofieo.dev**
 
 
 
