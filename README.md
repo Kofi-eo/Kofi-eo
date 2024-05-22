@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emmanuel-ofori-a2ab75238/)
-[<img src = "https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/kofi_eo)
-[<img src = "https://img.shields.io/badge/Instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/kofieocodes/)
+[<img src = "https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/kofieo_)
+[<img src = "https://img.shields.io/badge/Instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/kofieo_/)
 
 
 
