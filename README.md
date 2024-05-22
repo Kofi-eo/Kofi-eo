@@ -11,9 +11,7 @@
 
 - 🔭 I’m currently working on **A React Native App**
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Anything Javascript**
+- 💬 Ask me about **Anything Javascript/Typescript**
 
 - 📫 How to reach me **kofieocodes@gmail.com**
 
